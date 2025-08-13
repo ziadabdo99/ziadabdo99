@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ziad Mohamed Abdo</h1>
 <h3 align="center">A passionate Flutter Developer from Egypt</h3>
 
-- 🔭 I’m currently working as a Flutter Developer **WAVZ for digital transformation**
+- 🔭 I’m currently working as a Flutter Developer **- WAVZ for digital transformation**
 
 - 💬 Ask me about **Flutter,Dart, Firebase,hive, SQLite, sql**
 
