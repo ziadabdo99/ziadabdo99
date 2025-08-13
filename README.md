@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working as a Flutter Developer **- WAVZ for digital transformation**
 
+- 🤝 Open To Work **Full time , Part-time, Freelance**
+
 - 💬 Ask me about **Flutter,Dart, Firebase,hive, SQLite, sql**
 
 - 📫 How to reach me **ziad.abdo.2014@gmail.com**
